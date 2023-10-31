@@ -86,4 +86,10 @@ public class Guide extends JFrame{
             new Guide();
         });
     }
-}
+} 
+
+
+
+
+//thanks.-seungmiun-
+
