@@ -58,7 +58,7 @@ public class MainPage extends JFrame {
 
 
 
-
+//승민
     public static void main(String[] args) {
         SwingUtilities.invokeLater(() -> {
             new MainPage().setVisible(true);
